@@ -1,8 +1,8 @@
-该项目需要数据
+该项目将新疆地区的洪涝、地震、塌陷、温度预警等风险以可视化的方式展示，最后结合各个风险因子，通过计算，得到管道沿线的总体风险等级
 项目展示：
 <img width="1231" height="628" alt="image" src="https://github.com/user-attachments/assets/c8e6b662-42f8-42c8-b761-dea01dacb5a5" />
 <img width="1064" height="626" alt="image" src="https://github.com/user-attachments/assets/1dd78166-34ee-45fd-ad40-29997c66d276" />
-该项目需要下载geoserver，
+该项目需要下载geoserver，该项目需要数据
 geoserver部署到8080端口，创建test工作区
 将earthquake.csv部署为earthquake矢量数据并发布
 pipe.csv部署为xinjiangpipe矢量数据并发布
